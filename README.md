@@ -9,12 +9,12 @@
 <p> - 💻 I'm a <b>Frontend Web Developer</b></p>  
 <p> - 🎓 Studying <b>B-Tech 3rd Year</b> </p> 
 <p> - 🤝 Open to collabration on <b>Frontend Projects & Internships</b></p>
-<p> - 🎯 Focused on improving UI/UX and user experience</p> 
+<p> - 🎯 Focused on improving UI and user experience</p> 
 <p> - 🚀 Building real-world Projects</p>
    <p> - 💭 Approach me at <a href="mailto:thippireddysreelekha@gmail.com">thippireddysreelekha@gmail.com</a></p>
 <br>
 
-<!--![Profile Views](https://komarev.com/ghpvc/?username=Sreelekha-11&color=blue)--->
+[Profile Views](https://komarev.com/ghpvc/?username=Sreelekha-11&color=blue)
 
 
 
